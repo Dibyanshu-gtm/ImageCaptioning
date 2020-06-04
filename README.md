@@ -7,8 +7,8 @@ the content and features of the image and natural language processing to turn th
 into words in the right order. Recently, deep learning methods have achieved state-of-the-art results on
 examples of this problem.
 
-#### Please read the complete description and Readme to be clear about the implementation.
-
+### Please read the complete description and README to be clear about the implementation.
+### Technical Report is saved [here](17BCE1328_17BLC1046ImagCaptionGen.pdf) with all the references
 ## Requirements
 
 Minimum Requirements
@@ -29,7 +29,7 @@ Download the datasets and unzip them into your current working directory. You wi
 * **Flickr8k_Dataset**: Contains 8092 photographs in JPEG format.
 * **Flickr8k_text**: Contains a number of files containing different sources of descriptions for the photographs.
 
-![Alt Text](index.png)
+![Alt Text](abc.png)
 
 The dataset has a pre-defined training dataset (6,000 images), development dataset (1,000 images), and test dataset (1,000 images).
 
@@ -50,3 +50,7 @@ You can easily implement the project locally on your system easily with the foll
 * Your program would run and generate the needed outputs
 
 ## Results 
+
+![Alt Text](results.png)
+
+Check out my other repos as well. Enjoy and be Safe
