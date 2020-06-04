@@ -29,7 +29,7 @@ Download the datasets and unzip them into your current working directory. You wi
 * **Flickr8k_Dataset**: Contains 8092 photographs in JPEG format.
 * **Flickr8k_text**: Contains a number of files containing different sources of descriptions for the photographs.
 
-
+![Alt Text](index.png)
 
 The dataset has a pre-defined training dataset (6,000 images), development dataset (1,000 images), and test dataset (1,000 images).
 
