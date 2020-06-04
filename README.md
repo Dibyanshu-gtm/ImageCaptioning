@@ -14,3 +14,4 @@ Minimum Requirements
 
 ## Dataset Requirements 
 
+We would be using Flickr8K_ dataset . As the name suggests the particular dataset contains 
