@@ -34,8 +34,7 @@ Download the datasets and unzip them into your current working directory. You wi
 The dataset has a pre-defined training dataset (6,000 images), development dataset (1,000 images), and test dataset (1,000 images).
 
 ## Main Architecture 
-
-![Model Main Summary](/images/logo.png)
+Model Main Summary
 : ![Alt Text](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Plot-of-the-Caption-Generation-Deep-Learning-Model.png)
 
 ## Steps to implement this locally on your system
