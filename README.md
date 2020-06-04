@@ -14,4 +14,6 @@ Minimum Requirements
 
 ## Dataset Requirements 
 
-We would be using Flickr8K_ dataset . As the name suggests the particular dataset contains 
+We would be using Flickr8K_ dataset . As the name suggests the particular dataset contains around 8000 images with around 5 captions per image. The reason is because it is realistic and relatively small so that you can download it and build models on your workstation using a CPU.
+
+The Dataset can be downloaded through the request form at this [Dataset Request](https://illinois.edu/fb/sec/1713398)
