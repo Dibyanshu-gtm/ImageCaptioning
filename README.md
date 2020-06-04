@@ -1,6 +1,13 @@
 # Image Caption Generation
 
-Image Caption Generation is one of the classic AI problem that uses both domains from NLP and CV making it a really interesting project. Objective of the system is to generate a caption( A one line description) about an Image which is accurate as much as possible. Please read the complete description and Readme to be clear about the implementation.
+Image Caption Generation is one of the classic AI problem that uses both domains from NLP and CV making it a really interesting project. Objective of the system is to generate a caption( A one line description) about an Image which is accurate as much as possible. Caption generation is a challenging artificial intelligence problem where a textual description must be generated
+for a given image input.
+It requires methods from both computer vision and natural language processing. Computer vision to understand
+the content and features of the image and natural language processing to turn the understanding of the image
+into words in the right order. Recently, deep learning methods have achieved state-of-the-art results on
+examples of this problem.
+
+#### Please read the complete description and Readme to be clear about the implementation.
 
 ## Requirements
 
@@ -22,12 +29,14 @@ Download the datasets and unzip them into your current working directory. You wi
 * **Flickr8k_Dataset**: Contains 8092 photographs in JPEG format.
 * **Flickr8k_text**: Contains a number of files containing different sources of descriptions for the photographs.
 
+
+
 The dataset has a pre-defined training dataset (6,000 images), development dataset (1,000 images), and test dataset (1,000 images).
 
 ## Main Architecture 
 
-![Image](/images/logo.png)
-Format: ![Alt Text](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Plot-of-the-Caption-Generation-Deep-Learning-Model.png)
+![Model Main Summary](/images/logo.png)
+: ![Alt Text](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Plot-of-the-Caption-Generation-Deep-Learning-Model.png)
 
 ## Steps to implement this locally on your system
 
