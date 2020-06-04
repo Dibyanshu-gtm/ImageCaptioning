@@ -6,7 +6,7 @@ Image Caption Generation is one of the classic AI problem that uses both domains
 
 Minimum Requirements
 
-1. Python with Keras and other importanyt libraries including tensorflow, numpy et cetera
+1. Python with Keras and other important libraries including tensorflow, numpy et cetera
 2. 4GB RAM
 3. Any Operating System would do
 4. Ipynb editor like Jupyter or Ipython
@@ -23,3 +23,21 @@ Download the datasets and unzip them into your current working directory. You wi
 * **Flickr8k_text**: Contains a number of files containing different sources of descriptions for the photographs.
 
 The dataset has a pre-defined training dataset (6,000 images), development dataset (1,000 images), and test dataset (1,000 images).
+
+## Main Architecture 
+
+![Image](/images/logo.png)
+Format: ![Alt Text](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Plot-of-the-Caption-Generation-Deep-Learning-Model.png)
+
+## Steps to implement this locally on your system
+
+You can easily implement the project locally on your system easily with the following Steps:
+
+* Download the Dataset that is linked in the README
+* Now try using clone method to clone this repository in your local system
+* Before implementing see to it that all the path variables are set correctly 
+* After setting everything up , You can run the cells 
+* Your program would run and generate the needed outputs
+
+## Results 
+
